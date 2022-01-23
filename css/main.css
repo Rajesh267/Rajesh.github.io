@@ -1,0 +1,146 @@
+@font-face {
+    font-family: fontRegular;
+    src: url(../fonts/Outfit-Regular.ttf);
+}
+
+@font-face {
+    font-family: fontBold;
+    src: url(../fonts/Outfit-Bold.ttf);
+}
+
+.portfolio_about_content {
+    font-size: 1.3rem;
+    font-family: fontRegular;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 35px;
+    padding: 60px 30px;
+}
+
+body {
+    color: darkblue !important;
+}
+
+.about {
+    background: ghostwhite !important;
+    color: gray;
+}
+
+.portfolio_img {
+    background-image: url('../img/snap2.png');
+    background-size: cover;
+}
+
+.portfolio_header {
+    background-color: #fff;
+}
+
+#contact {
+    background-color: blueviolet;
+}
+
+.profile-content {
+    background: ghostwhite;
+    font-family: fontBold;
+    font-size: 1rem !important;
+}
+
+.portfolio_about_content {
+    color: darkblue !important;
+}
+
+.profile-icons {
+    margin: 3px 10px 3px 10px;
+    font-weight: bold;
+}
+
+.profile_img {
+    width: 75% !important;
+}
+
+.profile_info {
+    color: darkblue !important;
+}
+
+.profile_info p {
+    padding-left: 5px;
+    color: darkblue;
+    font-family: fontRegular;
+    color: darkblue !important;
+}
+
+.portfolio_skills_title {
+    font-size: 1.9rem;
+    font-family: fontRegular;
+    letter-spacing: 2px;
+    line-height: 35px;
+    color: darkblue !important;
+}
+
+.uk-card h3 {
+    font-size: 1.3rem;
+    font-family: fontRegular;
+    color: darkblue !important;
+}
+
+.portfolio_skills_div h5 {
+    margin: 10px;
+    font-family: fontRegular;
+    color: darkblue !important;
+}
+
+.portfolio_education_title {
+    font-size: 1.9rem;
+    font-family: fontRegular;
+    letter-spacing: 2px;
+    line-height: 35px;
+    padding: 15px 0px 40px 0px;
+    color: darkblue !important;
+}
+
+.portfolio_education_content {
+    font-size: 1.1rem;
+    font-family: fontBold;
+    color: darkblue !important;
+}
+
+.portfolio_education_sub_content {
+    font-family: fontRegular;
+    font-size: 1.1rem;
+    color: darkblue !important;
+}
+
+.portolio_exprience {
+    background: ghostwhite;
+}
+
+.portfolio_exprience_title {
+    font-size: 1.9rem;
+    font-family: fontRegular;
+    letter-spacing: 2px;
+    line-height: 35px;
+    padding: 15px 0px 40px 0px;
+    color: darkblue !important;
+    text-align: center;
+}
+
+.portfolio_exprience_content_title {
+    color: darkblue !important;
+    font-family: fontRegular;
+    font-size: 1.3rem;
+}
+
+.portfolio_exprience_content {
+    font-family: fontRegular;
+    font-size: 1.1rem;
+}
+
+.portfolio_exprience_btn {
+    font-family: fontRegular !important;
+    font-size: 1.2rem;
+}
+
+.portfolio_exprience_list li {
+    font-family: fontRegular !important;
+    font-size: 1rem;
+}
